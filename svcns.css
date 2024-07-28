@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: "c:\lavanya\bg.jpg" alt="";
+}
+h1{
+    font-size:50px;
+    font-style: inherit;
+    text-shadow:1cap;
+    padding-top: 3hv;
+    font-size: sans-serif;
+    color:#E75480;
+}
+a{
+    text-decoration: none;
+    color: rgb(16, 15, 15);
+    text-shadow:Â #E75480;
+}
